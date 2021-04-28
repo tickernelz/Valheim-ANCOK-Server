@@ -1,0 +1,14 @@
+/Cmd.pm
+/Config.pm
+/Domain.pm
+/FTP.pm
+/NNTP.pm
+/Netrc.pm
+/POP3.pm
+/Ping.pm
+/SMTP.pm
+/Time.pm
+/hostent.pm
+/netent.pm
+/protoent.pm
+/servent.pm

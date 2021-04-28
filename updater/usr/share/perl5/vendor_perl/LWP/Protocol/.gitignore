@@ -1,0 +1,10 @@
+/cpan.pm
+/data.pm
+/file.pm
+/ftp.pm
+/gopher.pm
+/http.pm
+/loopback.pm
+/mailto.pm
+/nntp.pm
+/nogo.pm

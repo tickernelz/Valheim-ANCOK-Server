@@ -1,0 +1,5 @@
+/cert.pem
+/ct_log_list.cnf
+/ct_log_list.cnf.dist
+/openssl.cnf
+/openssl.cnf.dist

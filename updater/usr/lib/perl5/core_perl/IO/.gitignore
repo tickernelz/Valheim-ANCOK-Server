@@ -1,0 +1,8 @@
+/Dir.pm
+/File.pm
+/Handle.pm
+/Pipe.pm
+/Poll.pm
+/Seekable.pm
+/Select.pm
+/Socket.pm

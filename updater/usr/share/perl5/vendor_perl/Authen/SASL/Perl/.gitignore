@@ -1,0 +1,7 @@
+/ANONYMOUS.pm
+/CRAM_MD5.pm
+/DIGEST_MD5.pm
+/EXTERNAL.pm
+/GSSAPI.pm
+/LOGIN.pm
+/PLAIN.pm

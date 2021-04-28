@@ -1,0 +1,9 @@
+/Array.pm
+/File.pm
+/Handle.pm
+/Hash.pm
+/Memoize.pm
+/RefHash.pm
+/Scalar.pm
+/StdHandle.pm
+/SubstrHash.pm

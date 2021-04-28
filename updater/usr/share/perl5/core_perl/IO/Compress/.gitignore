@@ -1,0 +1,6 @@
+/Base.pm
+/Bzip2.pm
+/Deflate.pm
+/Gzip.pm
+/RawDeflate.pm
+/Zip.pm
