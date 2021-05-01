@@ -17,7 +17,8 @@ set GIT_PATH="updater\bin\git.exe"
 set BRANCH = "origin"
 %GIT_PATH% pull %BRANCH%
 %GIT_PATH% reset --hard %BRANCH%
+TIMEOUT /T 5
 ECHO ------------------------
 ECHO Launching Valheim
-start "" "valheim.exe" -windows-mode exclusive
+cmd.exe /c start "Valheim" /high "valheim.exe" "-windows-mode exclusive"
 :END
